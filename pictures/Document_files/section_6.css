@@ -1,0 +1,65 @@
+.section_6{
+  width: 100%;
+  background-color: rgba(249,250,251);
+  padding-top: 20px;
+}
+.group_6{
+    width: 1200px;
+    margin: auto;
+    padding-bottom: 80px;
+}
+.section_6 .title{
+    margin: 0px;
+}
+.section_6 .description{
+    margin: 30px 0px;
+    font-size: 20px;
+    width: 800px;
+    line-height: 1.5;
+}
+.change_path{
+    width: 100%;
+    display: flex;
+}
+.change_path a{
+    text-decoration: none;
+}
+.camp{
+    width: 580px;
+    padding-bottom: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    background-color: white;
+    box-shadow: 1px 1px 5px rgb(230, 230, 230);
+}
+#coding{
+    margin-right: 20ox;
+}
+#astro_camp{
+    margin-left: 20px;
+}
+.camp img{
+    width: 100%;
+}
+.camp h2{
+    color: black;
+    font-size: 20px;
+    margin-left: 20px;
+}
+.camp p{
+    color: black;
+    margin-left: 20px;
+    width: 545px;
+    line-height: 1.5;
+}
+.go_course{
+    color: red;
+    margin-left: 20px;
+}
+.go_course:hover{
+    border-bottom: 1px solid red;
+}
+.section_6 img{
+    width: 100%;
+    display: block;
+}

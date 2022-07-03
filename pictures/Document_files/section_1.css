@@ -1,0 +1,54 @@
+.section_1{
+    width: 100%;
+}
+.group{
+    width: 1200px;
+    margin: auto;
+}
+.course_discount{
+    margin-top: 100px;
+}
+.course_discount .pic img{
+    width: 100%;
+}
+.course_discount_txt{
+    text-align: center;
+    margin-top: 30px;
+}
+.course_discount_txt .txt1{
+    font-size: 27px;
+}
+.course_discount_txt .txt2{
+    font-size: 18px;
+    margin: 30px;
+}
+.practice_plan_task{
+    display: flex;
+    margin-bottom: 100px;
+}
+.describe{
+    margin: 0px 15px;
+}
+.describe .pic{
+    width: 100%;
+    display: flex;
+}
+.describe .pic img{
+    width: 60%;
+    margin: auto;
+}
+.practice_plan_task .describe .text{
+    text-align: center;
+}
+.describe .text span{
+    display: inline-block;
+    margin: 10px;
+}
+.describe .topic{
+    font-weight: 600;
+}
+.triangle img{
+    width: 100%;
+    display: block;  
+    /* 移除圖片底下多出來的空白 */
+}

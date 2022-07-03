@@ -1,0 +1,93 @@
+.section_5{
+    width: 100%;
+    background-color: rgba(41,48,62);
+}
+.group_5{
+    width: 1200px;
+    margin: auto;
+    background-color: rgba(41,48,62);
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+.group_5 .title{
+    color: #fff;
+    margin-left: 15px;
+}
+.teacher_columns{
+    display: flex;
+    flex-wrap: wrap;
+}
+.teacher_columns a{
+    text-decoration: none;
+    display: block;
+}
+.teacher_columns .teacher{
+    width: 370px;
+    margin-left: 15px;
+    margin-right: 15px;
+    background-color: #fff;
+    border-radius: 5px;
+    overflow: hidden;
+}
+.course_information{
+    text-decoration: none;
+    display: block;
+}
+.teacher_columns .teacher img{
+    width: 100%;
+}
+.teacher .date{
+    width: 75px;
+    border: 1px solid gray;
+    border-radius: 5px;
+    padding: 5px;
+    margin-bottom: 30px;
+    margin: 15px;
+    color: gray;
+    font-size: 12px;
+}
+#teacher{
+    padding-bottom: 15px;
+    margin: 15px;
+    color: gray;
+    font-size: 18px;
+}
+#teacher img{
+    width: 4%;
+}
+.course_1{
+    color: rgb(0, 132, 255);
+    font-size: 12px;
+    margin-left: 75px;
+}
+.course_2{
+    color: rgb(255, 0, 43);
+    font-size: 12px;
+    margin-left: 75px;
+}
+.course_3{
+    color: rgb(4, 255, 0);
+    font-size: 12px;
+    margin-left: 45px;
+}
+.more_courses{
+    padding: 10px;
+    border-left: 10px solid red;
+    border-right: 10px solid red;
+    border-radius: 5px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 80px;
+    background-color: red
+}
+.txt{
+    background-color: red;
+    color: white;
+    text-decoration: none;
+    text-align: center;
+}
+.back_triangle_2{
+    width: 100%;
+    display: block;
+}

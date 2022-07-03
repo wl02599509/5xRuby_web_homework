@@ -1,0 +1,38 @@
+.section_8{
+    width: 100%;
+}
+.group_8{
+    width: 1200px;
+    margin: auto;
+}
+.section_8 .title{
+    text-align: center;
+    margin-bottom: 0px;
+}
+.good_study{
+    width: 1200px;
+    display: flex;
+}
+.study{
+    width: 370px;
+    margin: 15px;
+}
+.study img{
+    width: 100%;
+}
+.study a{
+    text-decoration: none;
+    color: black;
+    font-size: 12px;
+}
+.study a:hover{
+    color: red;
+}
+.study p{
+    color: rgb(164, 161, 161);
+    font-size: 15px;
+}
+.section_8 img{
+    width: 100%;
+    display: block;
+}

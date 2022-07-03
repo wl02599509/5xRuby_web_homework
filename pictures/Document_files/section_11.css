@@ -1,0 +1,11 @@
+.section_11{
+    background-color: rgba(24,30,45);
+    margin: 0px;
+}
+.section_11 p{
+    text-align: center;
+    font-size: 15px;
+    color: gray;
+    padding: 20px;
+    margin: 0px;
+}

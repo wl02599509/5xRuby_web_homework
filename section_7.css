@@ -1,0 +1,25 @@
+.section_7{
+    width: 100%;
+    margin: 100px 0px;
+}
+.gropu_7{
+    width: 1200px;
+    margin: auto;
+}
+.Rubyx5{
+    text-align: center;
+    margin: 0px;
+}
+.gratitude{
+    display: flex;
+}
+.experience{
+    width: 250px;
+    margin: 20px;
+    padding: 20px;
+    box-shadow: 1px 1px 5px rgb(230, 230, 230);
+    line-height: 1.5;
+}
+.experience .student_name img{
+    width: 10%;
+}
